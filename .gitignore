@@ -1,3 +1,9 @@
+# Ignore these
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.csv
 # History files
 .Rhistory
 .Rapp.history
