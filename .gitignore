@@ -4,6 +4,10 @@
 .RData
 .Ruserdata
 .csv
+.R
+*/images
+*/data
+
 # History files
 .Rhistory
 .Rapp.history
