@@ -1,2 +1,2 @@
 # GLM-binary_ut-gilas
-an exercise to practice creating a binary GLM using Gila monster survey data from southern Utah.
+Practice repository for creating a binary GLM using Gila monster survey data from southern Utah

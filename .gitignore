@@ -2,11 +2,11 @@
 .Rproj.user
 .Rhistory
 .RData
-.Ruserdata
-.csv
-.R
-*/images
-*/data
+*.Rmd
+*.Rproj
+*images/
+*data/
+*scripts/
 
 # History files
 .Rhistory
